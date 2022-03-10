@@ -64,7 +64,7 @@ class _LandingPageState extends State<LandingPage> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Image.asset(
-                        'assets/logo.png',
+                        'logo.png',
                         width: 72,
                         height: 40,
                       ),
@@ -98,7 +98,7 @@ class _LandingPageState extends State<LandingPage> {
                         ],
                       ),
                       Image.asset(
-                        'assets/button_account.png',
+                        'button_account.png',
                         width: 163,
                         height: 53,
                       ),
@@ -108,7 +108,7 @@ class _LandingPageState extends State<LandingPage> {
                     height: 76,
                   ),
                   Image.asset(
-                    'assets/illustration.png',
+                    'illustration.png',
                     height: 550,
                   ),
                   const SizedBox(
