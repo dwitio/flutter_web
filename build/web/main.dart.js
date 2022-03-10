@@ -51444,7 +51444,7 @@ A.FK.prototype={
 S(a,b){var s=null,r=new A.YK(this),q=t.w,p=b.a4(q).f
 p=A.zW("background.png",B.t9,b.a4(q).f.a.b,p.a.a)
 q=t.E
-r=A.a6_(A.a([A.Ti(A.a([A.zW("assets/logo.png",s,40,72),A.Ti(A.a([r.$2$index$title(0,"Guides"),B.j9,r.$2$index$title(1,"Pricing"),B.j9,r.$2$index$title(2,"Team"),B.j9,r.$2$index$title(3,"Stories")],q),B.eE,B.c3),A.zW("assets/button_account.png",s,53,163)],q),B.Bp,B.c3),B.E_,A.zW("assets/illustration.png",s,550,s),B.E0,A.Ti(A.a([A.zW("icon.png",s,s,24),B.DZ,A.a7V("Scroll to Learn More",A.a6q(B.l,20,s),s,s)],q),B.Bo,B.c3)],q),B.c3)
+r=A.a6_(A.a([A.Ti(A.a([A.zW("logo.png",s,40,72),A.Ti(A.a([r.$2$index$title(0,"Guides"),B.j9,r.$2$index$title(1,"Pricing"),B.j9,r.$2$index$title(2,"Team"),B.j9,r.$2$index$title(3,"Stories")],q),B.eE,B.c3),A.zW("button_account.png",s,53,163)],q),B.Bp,B.c3),B.E_,A.zW("illustration.png",s,550,s),B.E0,A.Ti(A.a([A.zW("icon.png",s,s,24),B.DZ,A.a7V("Scroll to Learn More",A.a6q(B.l,20,s),s,s)],q),B.Bo,B.c3)],q),B.c3)
 return new A.tG(A.D8(B.ct,A.a([p,new A.CM(!0,new A.kU(B.x_,r,s),s)],q),B.dw),s)}}
 A.YK.prototype={
 $2$index$title(a,b){var s=null,r=this.a,q=A.a7V(b,A.a6q(B.w_,18,a===r.d?B.P:B.bS),s,s),p=A.xH(20)
