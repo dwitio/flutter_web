@@ -118,7 +118,7 @@ class _LandingPageState extends State<LandingPage> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Image.asset(
-                        'assets/icon.png',
+                        'assets/logo.png',
                         width: 24,
                       ),
                       const SizedBox(
