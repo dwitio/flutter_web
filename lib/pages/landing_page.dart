@@ -108,7 +108,7 @@ class _LandingPageState extends State<LandingPage> {
                     height: 76,
                   ),
                   Image.asset(
-                    'illustration.png',
+                    'icon.png',
                     height: 550,
                   ),
                   const SizedBox(
